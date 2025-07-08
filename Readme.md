@@ -1,7 +1,7 @@
 # Uditha nayanajith - SP Solution Java Interview
 Here I have added my Answers for problem one to four inside  **ProblemTasks** folder.
 For each problem I have created separate classes with main class.
-
+**Inorder to run these filescut and paste outside folder and run**
 
 #
 
